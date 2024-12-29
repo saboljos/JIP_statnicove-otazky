@@ -1,0 +1,114 @@
+\documentclass[a4paper, 11pt]{article}
+
+\usepackage[version=3]{mhchem}
+\usepackage{siunitx}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage[total={16cm,25cm}, top=3cm, left=2.5cm, includefoot]{geometry}
+\usepackage{pgfplots}
+\usepackage{float}
+\usepackage{amsfonts}
+\usepackage{booktabs}
+\usepackage{easytable}
+\usepackage{mathtools}
+\usepackage{comment}
+\usepackage[makeroom]{cancel}
+\renewcommand{\figurename}{Obrázek}
+\renewcommand{\refname}{Zdroje}
+\renewcommand{\tablename}{Tabulka}
+\renewcommand{\contentsname}{Obsah}
+
+\setlength\parindent{0pt}
+\setcounter{section}{0}
+\renewcommand{\labelenumi}{\alph{enumi}.}
+\usepackage{xcolor}
+\definecolor{light-gray}{gray}{0.95}
+\newcommand{\code}[1]{\colorbox{light-gray}{\texttt{#1}}}
+\newcommand{\logoCVUT}{\includegraphics[width = 0.5\textwidth]{img/symbol_cvut_konturova_verze_cb.pdf}}
+\newcommand{\logoFJFI}{\includegraphics[width = 0.4\textwidth]{img/fjfi_logo.png}}
+
+\begin{document}
+% \include{veličiny}
+% \include{zkratky}
+
+% titulní strana
+\thispagestyle{empty}
+
+\begin{center}
+	{\LARGE
+		České vysoké učení technické v Praze \par
+		Fakulta jaderná a fyzikálně inženýrská
+	}
+    \vspace{10mm}
+
+    \begin{tabular}{c}
+		\textbf{Katedra jaderných reaktorů} \\[3pt]
+    \end{tabular}
+
+   \vspace{10mm} \logoCVUT \vspace{15mm}
+
+   {\huge \textbf{Jaderné inženýrství v praxi}\par}
+   \vspace{5mm}
+   {\huge \textbf{Magisterské studium}\par}
+
+   \vspace{15mm}
+   {\Large \MakeUppercase{Státnicové otázky}}
+
+   \vfill
+   {\large
+    \begin{tabular}{ll}
+    Rok: & 2025
+    \end{tabular}
+   }
+\end{center}
+
+% Prohlášení
+\newpage
+\thispagestyle{empty}
+
+%~
+\vfill
+
+\vspace{1em}
+
+Ahojky, dostávají se ti do rukou státnicové otázky ze předmětu Jaderné inženýrství v praxi. Prosím, měj na paměti, že celkový přehled není v některých tématech ucelený a že se v textu můžou vyskytovat (a stoprocentně vyskytují) chyby jak gramatické, tak faktické. Ale i přestože text má k dokonalosti hodně daleko, předávám ho dál a věřím, že třeba někomu pomůže :)))\\
+\\
+T.K.\\
+\\
+No nazdar, jestli tenhle text čteš, tak se ti do rukou dostaly opravené, obohacené, vylepšené a hlavně aktuální otázky dle okruhů na magisterské SZZ v roce 2024. Opět platí to samé co nahoře, je tam spousta chyb, ale snad by měl text poskytovat intenzivnější vhled do problematiky.\\
+\\
+J.M. + Š.J.\\
+\\
+Budeme rádi za jakékoli doplnění, opravu nebo komentář a držím palce ke státnicím!!!
+
+\vspace{2em}
+
+\clearpage{\pagestyle{empty}}
+
+\include{none}
+
+\newpage
+\parskip=0pt
+\begin{small}
+\tableofcontents
+\end{small}
+\parskip=7pt
+\newpage
+
+\include{kapitoly/chapter_01}
+\include{kapitoly/chapter_02}
+\include{kapitoly/chapter_03}
+\include{kapitoly/chapter_04}
+\include{kapitoly/chapter_05}
+\include{kapitoly/chapter_06}
+\include{kapitoly/chapter_07}
+\include{kapitoly/chapter_08}
+\include{kapitoly/chapter_09}
+\include{kapitoly/chapter_10}
+\include{kapitoly/chapter_11}
+\include{kapitoly/chapter_12}
+\include{kapitoly/chapter_13}
+\include{kapitoly/chapter_14}
+\include{kapitoly/chapter_15}
+
+\end{document}
