@@ -10,15 +10,22 @@
 \contentsline {subsection}{\numberline {2.3}Matricové jevy}{9}{}%
 \contentsline {subsection}{\numberline {2.4}Metody kompenzace Matricových jevů}{9}{}%
 \contentsline {section}{\numberline {3}Elektronová mikrosonda}{11}{}%
-\contentsline {section}{\numberline {4}Aplikace ionizujícího záření v geologii a geofyzice}{12}{}%
-\contentsline {section}{\numberline {5}Využití iontových svazků v materiálovém výzkumu}{13}{}%
-\contentsline {section}{\numberline {6}Využití jaderně-fyzikálních metod v materiálovém výzkumu}{14}{}%
-\contentsline {section}{\numberline {7}Jaderně-fyzikální metody v nukleární medicíně}{15}{}%
-\contentsline {section}{\numberline {8}Využití synchrotronového záření v materiálovém výzkumu}{16}{}%
-\contentsline {section}{\numberline {9}Jednotky a veličiny v dozimetrii}{17}{}%
-\contentsline {section}{\numberline {10}MVyužití detektorů v metrologii aktivity}{18}{}%
-\contentsline {section}{\numberline {11}Koincidenční metoda \& spektrometrie gama}{19}{}%
-\contentsline {section}{\numberline {12}Metrologie neutronů \& manganová lázeň}{20}{}%
-\contentsline {section}{\numberline {13}Jaderná bezpečnost \& ochrana do hloubky}{21}{}%
-\contentsline {section}{\numberline {14}Klasifikace událostí na jaderných zařízeních}{22}{}%
-\contentsline {section}{\numberline {15}Legislativa jaderné bezpečnosti}{23}{}%
+\contentsline {subsection}{\numberline {3.1}Princip}{11}{}%
+\contentsline {subsection}{\numberline {3.2}Typy elektronového mikroskopu:}{12}{}%
+\contentsline {subsection}{\numberline {3.3}Využití}{13}{}%
+\contentsline {subsection}{\numberline {3.4}Výhody a nevýhody elektronového mikroskopu}{13}{}%
+\contentsline {section}{\numberline {4}Aplikace ionizujícího záření v geologii a geofyzice}{15}{}%
+\contentsline {subsection}{\numberline {4.1}Radiometrické datování hornin}{15}{}%
+\contentsline {subsection}{\numberline {4.2}Jaderná karotáž (well logging)}{15}{}%
+\contentsline {subsection}{\numberline {4.3}Metody využívající zpětný odraz gama}{17}{}%
+\contentsline {section}{\numberline {5}Využití iontových svazků v materiálovém výzkumu}{20}{}%
+\contentsline {section}{\numberline {6}Využití jaderně-fyzikálních metod v materiálovém výzkumu}{21}{}%
+\contentsline {section}{\numberline {7}Jaderně-fyzikální metody v nukleární medicíně}{22}{}%
+\contentsline {section}{\numberline {8}Využití synchrotronového záření v materiálovém výzkumu}{23}{}%
+\contentsline {section}{\numberline {9}Jednotky a veličiny v dozimetrii}{24}{}%
+\contentsline {section}{\numberline {10}MVyužití detektorů v metrologii aktivity}{25}{}%
+\contentsline {section}{\numberline {11}Koincidenční metoda \& spektrometrie gama}{26}{}%
+\contentsline {section}{\numberline {12}Metrologie neutronů \& manganová lázeň}{27}{}%
+\contentsline {section}{\numberline {13}Jaderná bezpečnost \& ochrana do hloubky}{28}{}%
+\contentsline {section}{\numberline {14}Klasifikace událostí na jaderných zařízeních}{29}{}%
+\contentsline {section}{\numberline {15}Legislativa jaderné bezpečnosti}{30}{}%
