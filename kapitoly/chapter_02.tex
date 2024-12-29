@@ -1,2 +1,105 @@
-\section[Aplikace rentgnofluorescenční analýzi]{Zpracování spekter při použití rentgenfluorescenční analýzy, kvalitativní a kvantitativní analýza, matricové jevy}
+\section[Aplikace rentgnofluorescenční analýzy]{Zpracování spekter při použití rentgenfluorescenční analýzy, kvalitativní a kvantitativní analýza, matricové jevy}
 
+\subsection{Kvalitativní analýza}
+
+Nevím přesně o co jde, ale čekal bych to, že při detekci nebudu detekovat jen jednotlivé píky, ale i spojitý kus spektra. Ten je způsoben průchodem elektronu skrze prostředí, které ho zpomaluje, čemuž se říká brzdné záření. Jednotlivé píky jsou pak přisuzovány detekovaným prvkům ve vzorku zkoumaného materiálu.
+
+Podle velikosti energie, popř. vlnové délky, je zjištěno, co je to za prvek, neboť energie fluorescenčního RTG záření je tzv. charakteristické RTG záření a je specifická pro daný prvek. Následně pomocí MCA jsou dle energie rozděleny jednotlivé píky, přičemž jejich amplituda/velikost odpovídá intenzitě, neboli kvantitě. Tím je zajištěno kvalitativní i kvantitativní analyzování vzorku.
+
+V případě vlnově disperzní RFA tak analyzuji většinou jen jednu vlnovou délku, takže tam mám kvalitativní analýzu na ten jeden prvek a kvantita odpovídá velikosti píku.
+
+\subsection{Kvantitativní analýza}
+
+Závisí na: 
+
+\begin{itemize}
+    \item obsahu prvku ve vzorku,
+    \item intenzitě primárního fotonového záření (čím vyšší tok primárních fotonů, tím vyšší fluorescenční tok),
+    \item vlnové délce/energii primárních fotonů (je vhodné, aby energie primárního záření byla jen o málo větší než vazebná energie elektronů ve slupce, neboť tehdy je nejvyšší účinný průřez pro fotoefekt $\rightarrow$ to znamená, že pro různě těžké prvky musím mít různé ozařovací zdroje):
+    \item[-] Pro lehké prvky se dá využít RTG lampa a radionuklidy s měkkým zářením (Fe-55, Cm-244).
+    \item[-] Pro středně těžké prvky: Am-241.
+    \item[-] Pro těžkě prvky (Au, W, U, Pb, apod.): Co-57, Cs-137, Ce-144.
+    \item RF výtěžek (fluorescenční výtěžek + výtěžek Augerových elektronů),
+    \item ztráty záření,
+    \item matrice vzorku = matricové jevy (dají se potlačit, kompenzovat a nebo za určitých podmínek zanedbat).
+\end{itemize}
+
+Kalibrace pro kvantitativní analýzu většinou vyžaduje mít k dispozici alespoň jeden referenční materiál známého složení.
+
+Koncentrace ve vzorku zkoumaného materiálu a neznámého složení se stanoví přímým srovnáním s měřením ref. materiálů (trojčlenka). Tento způsob ale nebere v potaz matricové jevy.
+
+\subsection{Matricové jevy}
+
+Matricové jevy představují to, jak nám do naměřené koncentrace daného prvku zasahuje vliv koncentrace ostatních prvků, neboli vliv matrice.
+
+Výrazně se projevují při měření kovů a velmi málo, nebo vůbec, se neprojeví u měření tenkých vrstev, či při měření malých koncentrací zkoumaného prvku v dané matrici. Matricové jevy mohou mít za následek snížení, nebo zvýšení signálu, který pak neodpovídá skutečné koncentraci.
+
+\textbf{Zvýšení signálu:}
+\begin{itemize}
+    \item Primární zesílená excitace = excitovaný prvek A emituje čáry, které mohou excitovat jiný prvek B, a já pak detekuji vyšší koncentraci prvku B. Podmínkou je, aby $Z_A > Z_B$.
+    \item Sekundární zesílená excitace = excitovaný prvek A zesíleně excituje prvek B, a ten zase prvek C. Dostávám pak zesílenou excitaci prvku C. Podmínkou je, aby: $Z_A > Z_B > Z_C$.
+\end{itemize}
+
+\textbf{Snížení signálu:}
+\begin{itemize}
+    \item Zeslabení primárního excitačního záření.
+    \item Zeslabení fluorescenčního záření.
+    \begin{itemize}
+        \item Zeslabené charakteristického záření prvku A absorpcí na prvku B. Pod podmínkou, že $Z_A > Z_B$.
+    \end{itemize}
+\end{itemize}
+
+\subsection{Metody kompenzace Matricových jevů}
+
+\textbf{Absolutní metody kompenzace:}
+
+Používají se pro energiově disperzní XFA/RFA, kdy je známo celé spektrum vzorku $\rightarrow$ dopředu vím, co vzorek obsahuje.
+
+Stanovení obsahu prvku na základě výpočtu z intenzity spektrální čáry charakteristického RTG záření daného prvku. K tomu musím znát:
+
+\begin{itemize}
+    \item Energetické a intenzitní složení spektra,
+    \item Fluorescenční výtěžek,
+    \item Zeslabovací koeficient pro primární i sekundární zážení,
+    \item Přístrojové konstanty.
+\end{itemize}
+
+\textbf{Metoda alfa koeficientů:}
+
+Pokud by se matricové jevy neuplatňovaly, koncentrace prvků by se stanovovaly snadno. Např. koncentrace by byla přímo úměrná intenzitě charakteristického záření. Změnami složení matrice je však intenzita charakteristického záření zkoumaného prvku ovlivněna (absorpcí záření, nebo zesilujícími jevy).
+	
+	$C_i \sim  N_i$ - bez matricových jevů
+	
+	$C_i \sim N_i(1+\sum_{j}\alpha_{ij}C_j)$ - s korekcí
+	
+	$\rightarrow$ Koeficient $\alpha_{ij}$ vyjadřuje, jak prvek matrice $j$ ovlivní stanovení koncentrace analytu $i$, určovány experimentálně $\rightarrow$ vyžaduje to velké množství referenčních materiálů.
+
+\textbf{Zřeďovací metoda:}
+
+Přidání většího množství látky o známém složení a zeslabení záření ve vzorku je dáno vlastnostmi známé přidané látky. 
+
+Podle toho, jestli přidávaná látka zeslabuje více či méně, tak ji tam dám méně či více. Metoda je vhodná pro látky, které lze obecně dobře homogenizovat (např. rozpustné látky), a také pro takové látky, které samy neprodukují charakteristické záření (např. voda).
+
+Tato metoda sice snižuje vliv matricových jevů, ale také klesá intenzita charakteristického RTG záření, které chceme měřit.
+
+\textbf{Metoda vnitřního standardu:}
+
+Přidání známého množství prvků nebo sloučeniny do zkoumaného vzorku, avšak přidávané prvky nesmí být totožné jako ty, co jsou ve stanovovaném vzorku. 
+
+Vhodný vnitřní standard je $Z-1$ nebo $Z+1$ oproti stanovovanému prvku (prvek s podobnými absorpčními a excitačními vlivy jako má zkoumaný prvek se přidává ke vzorku, poté se měří se poměr intenzit).
+
+Nevýhodou je obtížné stanovování v případě velkého počtu prvků ve vzorku.
+
+\textbf{Metoda přídavku standardu:}
+
+Přidání známého množství prvku, který má být ve vzorku stanoven. Tím, že to přidám, se mi zvýší signál/intenzita. Interpolací naměřených hodnot k nulové intenzitě charakteristického RTG záření pak dostávám zápornou hodnotu koncentrace tohoto prvku. Tím mohu stanovit kvantitu před tím, než jsem tam přidal něco navíc.
+
+\textbf{Metoda tenké vrstvy:}
+
+Vzorek ve velmi tenké vrstvě $\rightarrow$ předpokládá se zde eliminace rušivých vlivů matrice.
+
+\textbf{Metoda Comptonova rozptylu:}
+
+Odhadnutí absorpčních vlastností matrice na základě intenzity rozptýleného záření z Comptonova jevu.
+
+Fotoelektrický jev je silně závislý na $Z$ prvku, zatímco Comptonův jev není. Proto látka s nízkým $Z$ produkuje více rozptýleného záření a jeho intenzita je přibližně nepřímo úměrná hmotnostnímu součiniteli zeslabení.

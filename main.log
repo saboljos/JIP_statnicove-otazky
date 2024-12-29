@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.8)  29 DEC 2024 10:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.8)  29 DEC 2024 11:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -773,68 +773,105 @@ No file none.tex.
 ]
 \openout2 = `kapitoly/chapter_01.aux'.
 
- (./kapitoly/chapter_01.tex) [4
+ (./kapitoly/chapter_01.tex
+Overfull \hbox (6.47296pt too wide) in paragraph at lines 11--12
+[]\OT1/cmr/bx/n/10.95 Kvantitativn^^S^^P anal^^Syza\OT1/cmr/m/n/10.95 : mno^^Tzstv^^S^^P emi-to-van^^Sych fo-ton^^Wu charak-ter-i-stick^^Seho z^^Sa^^Tren^^S^^P je p^^Tr^^S^^Pmo ^^Sum^^Tern^^Se
+ []
+
+<img/Princip RFA 1.png, id=23, 388.45125pt x 225.09094pt>
+File: img/Princip RFA 1.png Graphic file (type png)
+<use img/Princip RFA 1.png>
+Package pdftex.def Info: img/Princip RFA 1.png  used on input line 31.
+(pdftex.def)             Requested size: 409.71689pt x 237.42061pt.
+[4
 
 ]
+<img/Princip RFA 2.png, id=30, 414.79968pt x 198.7425pt>
+File: img/Princip RFA 2.png Graphic file (type png)
+<use img/Princip RFA 2.png>
+Package pdftex.def Info: img/Princip RFA 2.png  used on input line 37.
+(pdftex.def)             Requested size: 318.66946pt x 152.6895pt.
+ [5 <./img/Princip RFA 1.png> <./img/Princip RFA 2.png>]
+<img/Vlnově_disperzní_RFA.png, id=36, 414.79968pt x 246.9225pt>
+File: img/Vlnově_disperzní_RFA.png Graphic file (type png)
+<use img/Vlnově_disperzní_RFA.png>
+Package pdftex.def Info: img/Vlnově_disperzní_RFA.png  used on input line 63.
+(pdftex.def)             Requested size: 364.19664pt x 216.80641pt.
+ [6 <./img/Vlnově_disperzní_RFA.png>]) [7]
 \openout2 = `kapitoly/chapter_02.aux'.
 
- (./kapitoly/chapter_02.tex) [5
+ (./kapitoly/chapter_02.tex
+Overfull \hbox (9.43073pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10.95 N^^Sasledn^^Te po-moc^^S^^P MCA jsou dle en-ergie rozd^^Teleny jed-notliv^^Se p^^S^^Pky, p^^Tri^^Tcem^^Tz je-jich am-pli-tuda/velikost
+ []
+
+
+Overfull \hbox (6.29913pt too wide) in paragraph at lines 24--25
+[]\OT1/cmr/m/n/10.95 matrice vzorku = ma-tri-cov^^Se jevy (daj^^S^^P se potla^^Tcit, kom-pen-zo-vat a nebo za ur^^Tcit^^Sych podm^^S^^Pnek
+ []
+
+[8
 
 
 
-]
+] [9]
+Overfull \hbox (2.52737pt too wide) in paragraph at lines 103--104
+[]\OT1/cmr/m/n/10.95 Odhadnut^^S^^P ab-sorp^^Tcn^^S^^Pch vlast-nost^^S^^P ma-trice na z^^Saklad^^Te in-ten-z-ity rozpt^^Sylen^^Seho z^^Sa^^Tren^^S^^P z Comptonova
+ []
+
+) [10]
 \openout2 = `kapitoly/chapter_03.aux'.
 
- (./kapitoly/chapter_03.tex) [6
+ (./kapitoly/chapter_03.tex) [11
 
 
 
 ]
 \openout2 = `kapitoly/chapter_04.aux'.
 
- (./kapitoly/chapter_04.tex) [7
+ (./kapitoly/chapter_04.tex) [12
 
 
 
 ]
 \openout2 = `kapitoly/chapter_05.aux'.
 
- (./kapitoly/chapter_05.tex) [8
+ (./kapitoly/chapter_05.tex) [13
 
 
 
 ]
 \openout2 = `kapitoly/chapter_06.aux'.
 
- (./kapitoly/chapter_06.tex) [9
+ (./kapitoly/chapter_06.tex) [14
 
 
 
 ]
 \openout2 = `kapitoly/chapter_07.aux'.
 
- (./kapitoly/chapter_07.tex) [10
+ (./kapitoly/chapter_07.tex) [15
 
 
 
 ]
 \openout2 = `kapitoly/chapter_08.aux'.
 
- (./kapitoly/chapter_08.tex) [11
+ (./kapitoly/chapter_08.tex) [16
 
 
 
 ]
 \openout2 = `kapitoly/chapter_09.aux'.
 
- (./kapitoly/chapter_09.tex) [12
+ (./kapitoly/chapter_09.tex) [17
 
 
 
 ]
 \openout2 = `kapitoly/chapter_10.aux'.
 
- (./kapitoly/chapter_10.tex) [13
+ (./kapitoly/chapter_10.tex) [18
 
 
 
@@ -846,7 +883,7 @@ Overfull \hbox (13.28534pt too wide) in paragraph at lines 1--1
 []\OT1/cmr/bx/n/14.4 Koinciden^^Tcn^^S^^P metoda stanoven^^S^^P ak-tiv-ity a spek-trome-trie z^^Sa^^Tren^^S^^P
  []
 
-) [14
+) [19
 
 
 
@@ -858,45 +895,45 @@ Overfull \hbox (0.45541pt too wide) in paragraph at lines 1--1
 []\OT1/cmr/bx/n/14.4 Metrologie neu-tron^^Wu a metoda manganov^^Se l^^Sazn^^Te v^^Tcetn^^Te zpra-
  []
 
-) [15
+) [20
 
 
 
 ]
 \openout2 = `kapitoly/chapter_13.aux'.
 
- (./kapitoly/chapter_13.tex) [16
+ (./kapitoly/chapter_13.tex) [21
 
 
 
 ]
 \openout2 = `kapitoly/chapter_14.aux'.
 
- (./kapitoly/chapter_14.tex) [17
+ (./kapitoly/chapter_14.tex) [22
 
 
 
 ]
 \openout2 = `kapitoly/chapter_15.aux'.
 
- (./kapitoly/chapter_15.tex) [18
+ (./kapitoly/chapter_15.tex) [23
 
 
 
 ] (./main.aux (./none.aux) (./kapitoly/chapter_01.aux) (./kapitoly/chapter_02.aux) (./kapitoly/chapter_03.aux) (./kapitoly/chapter_04.aux) (./kapitoly/chapter_05.aux) (./kapitoly/chapter_06.aux) (./kapitoly/chapter_07.aux) (./kapitoly/chapter_08.aux) (./kapitoly/chapter_09.aux) (./kapitoly/chapter_10.aux) (./kapitoly/chapter_11.aux) (./kapitoly/chapter_12.aux) (./kapitoly/chapter_13.aux) (./kapitoly/chapter_14.aux) (./kapitoly/chapter_15.aux)) ) 
 Here is how much of TeX's memory you used:
- 30166 strings out of 476091
- 792152 string characters out of 5794082
- 1856330 words of memory out of 5000000
- 49981 multiletter control sequences out of 15000+600000
- 520606 words of font info for 63 fonts, out of 8000000 for 9000
+ 30205 strings out of 476091
+ 792938 string characters out of 5794082
+ 1863330 words of memory out of 5000000
+ 50013 multiletter control sequences out of 15000+600000
+ 522953 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,7n,103p,770b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (18 pages, 99353 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on main.pdf (23 pages, 361108 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
+ 142 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
