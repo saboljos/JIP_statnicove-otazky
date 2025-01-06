@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.8)  29 DEC 2024 15:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.8)  6 JAN 2025 15:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -771,16 +771,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--87
 
 
 No file none.tex.
-(./main.toc)
+(./main.toc [3
+
+
+
+
+])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [3
-
-
-
-
-]
+ [4]
 \openout2 = `kapitoly/chapter_01.aux'.
 
  (./kapitoly/chapter_01.tex
@@ -788,26 +788,26 @@ Overfull \hbox (6.47296pt too wide) in paragraph at lines 11--12
 []\OT1/cmr/bx/n/10.95 Kvantitativn^^S^^P anal^^Syza\OT1/cmr/m/n/10.95 : mno^^Tzstv^^S^^P emi-to-van^^Sych fo-ton^^Wu charak-ter-i-stick^^Seho z^^Sa^^Tren^^S^^P je p^^Tr^^S^^Pmo ^^Sum^^Tern^^Se
  []
 
-<img/Princip RFA 1.png, id=23, 388.45125pt x 225.09094pt>
+<img/Princip RFA 1.png, id=26, 388.45125pt x 225.09094pt>
 File: img/Princip RFA 1.png Graphic file (type png)
 <use img/Princip RFA 1.png>
 Package pdftex.def Info: img/Princip RFA 1.png  used on input line 31.
 (pdftex.def)             Requested size: 409.71689pt x 237.42061pt.
-[4
+[5
 
 ]
-<img/Princip RFA 2.png, id=30, 414.79968pt x 198.7425pt>
+<img/Princip RFA 2.png, id=33, 414.79968pt x 198.7425pt>
 File: img/Princip RFA 2.png Graphic file (type png)
 <use img/Princip RFA 2.png>
 Package pdftex.def Info: img/Princip RFA 2.png  used on input line 37.
 (pdftex.def)             Requested size: 318.66946pt x 152.6895pt.
- [5 <./img/Princip RFA 1.png> <./img/Princip RFA 2.png>]
-<img/Vlnově_disperzní_RFA.png, id=36, 414.79968pt x 246.9225pt>
+ [6 <./img/Princip RFA 1.png> <./img/Princip RFA 2.png>]
+<img/Vlnově_disperzní_RFA.png, id=39, 414.79968pt x 246.9225pt>
 File: img/Vlnově_disperzní_RFA.png Graphic file (type png)
 <use img/Vlnově_disperzní_RFA.png>
 Package pdftex.def Info: img/Vlnově_disperzní_RFA.png  used on input line 63.
 (pdftex.def)             Requested size: 364.19664pt x 216.80641pt.
- [6 <./img/Vlnově_disperzní_RFA.png>]) [7]
+ [7 <./img/Vlnově_disperzní_RFA.png>]) [8]
 \openout2 = `kapitoly/chapter_02.aux'.
 
  (./kapitoly/chapter_02.tex
@@ -820,25 +820,25 @@ Overfull \hbox (6.29913pt too wide) in paragraph at lines 24--25
 []\OT1/cmr/m/n/10.95 matrice vzorku = ma-tri-cov^^Se jevy (daj^^S^^P se potla^^Tcit, kom-pen-zo-vat a nebo za ur^^Tcit^^Sych podm^^S^^Pnek
  []
 
-[8
+[9
 
 
 
-] [9]
+] [10]
 Overfull \hbox (2.52737pt too wide) in paragraph at lines 103--104
 []\OT1/cmr/m/n/10.95 Odhadnut^^S^^P ab-sorp^^Tcn^^S^^Pch vlast-nost^^S^^P ma-trice na z^^Saklad^^Te in-ten-z-ity rozpt^^Sylen^^Seho z^^Sa^^Tren^^S^^P z Comptonova
  []
 
-) [10]
+) [11]
 \openout2 = `kapitoly/chapter_03.aux'.
 
  (./kapitoly/chapter_03.tex
-<img/elektronová mikrosonda.png, id=57, 654.19406pt x 334.24875pt>
+<img/elektronová mikrosonda.png, id=60, 654.19406pt x 334.24875pt>
 File: img/elektronová mikrosonda.png Graphic file (type png)
 <use img/elektronová mikrosonda.png>
 Package pdftex.def Info: img/elektronová mikrosonda.png  used on input line 25.
 (pdftex.def)             Requested size: 318.66946pt x 162.81937pt.
- [11
+ [12
 
 
 
@@ -847,13 +847,13 @@ Overfull \hbox (5.4462pt too wide) in paragraph at lines 57--58
 []\OT1/cmr/m/n/10.95 Urychlovac^^S^^P nap^^Tet^^S^^P (100-400 keV) mus^^S^^P b^^Syt dostate^^Tcn^^Te velk^^Se, aby elek-trony m^^Tely dostate^^Tcnou
  []
 
-[12]
-<img/využití elektronové mikrosondy v praxi.png, id=66, 529.98pt x 344.03531pt>
+[13]
+<img/využití elektronové mikrosondy v praxi.png, id=70, 529.98pt x 344.03531pt>
 File: img/využití elektronové mikrosondy v praxi.png Graphic file (type png)
 <use img/využití elektronové mikrosondy v praxi.png>
 Package pdftex.def Info: img/využití elektronové mikrosondy v praxi.png  used on input line 75.
 (pdftex.def)             Requested size: 273.14922pt x 177.31403pt.
- [13 <./img/využití elektronové mikrosondy v praxi.png>]) [14]
+ [14 <./img/využití elektronové mikrosondy v praxi.png>]) [15]
 \openout2 = `kapitoly/chapter_04.aux'.
 
  (./kapitoly/chapter_04.tex
@@ -861,7 +861,7 @@ Overfull \hbox (7.90009pt too wide) in paragraph at lines 27--28
 []\OT1/cmr/bx/n/10.95 Leteck^^Se mon-i-torov^^San^^S^^P \OT1/cmr/m/n/10.95 = spek-tro-met-rick^^Se m^^Te^^Tren^^S^^P z^^Sa^^Tren^^S^^P gama ze svrchn^^S^^P vrstvy p^^Wudy. Umo^^Tz^^Tnuje
  []
 
-[15
+[16
 
 
 
@@ -870,8 +870,8 @@ Overfull \hbox (4.1395pt too wide) in paragraph at lines 56--57
 []\OT1/cmr/m/n/10.95 Druh^^Sa mo^^Tzn^^Sa vari-anta je de-tekce sekund^^Sarn^^S^^Pho z^^Sa^^Tren^^S^^P vznikl^^Se fo-toe-fek-tem, ^^Tc^^S^^Pm^^Tz se stanovuje
  []
 
-[16]
-<img/Neutronová karotáž.png, id=81, 473.51906pt x 318.43968pt>
+[17]
+<img/Neutronová karotáž.png, id=84, 473.51906pt x 318.43968pt>
 File: img/Neutronová karotáž.png Graphic file (type png)
 <use img/Neutronová karotáž.png>
 Package pdftex.def Info: img/Neutronová karotáž.png  used on input line 82.
@@ -881,54 +881,76 @@ Overfull \hbox (6.51202pt too wide) in paragraph at lines 93--94
 []\OT1/cmr/m/n/10.95 Emitovan^^Se fotony in-ter-aguj^^S^^P s ma-teri^^Salem (uhl^^S^^P) $\OMS/cmsy/m/n/10.95 !$ \OT1/cmr/m/n/10.95 Comp-ton^^Wuv rozptyl, ^^Tc^^Sast fo-ton^^Wu odra^^Tzena
  []
 
-[17 <./img/Neutronová karotáž.png>]
+[18 <./img/Neutronová karotáž.png>]
 Overfull \hbox (30.10022pt too wide) in paragraph at lines 97--98
 []\OT1/cmr/m/n/10.95 popel -- v^^Tet^^Ts^^S^^P $\OML/cmm/m/it/10.95 Z$ $\OMS/cmsy/m/n/10.95 !$ \OT1/cmr/m/n/10.95 v^^S^^Pce elek-tron^^Wu & v^^Tet^^Ts^^S^^P hus-tota $\OMS/cmsy/m/n/10.95 !$ \OT1/cmr/m/n/10.95 v^^Tet^^Ts^^S^^P elek-tronov^^Sa hus-tota $\OMS/cmsy/m/n/10.95 !$ \OT1/cmr/m/n/10.95 pravd^^Tepodobn^^Tej^^Ts^^S^^P
  []
 
-) [18] [19]
+) [19] [20]
 \openout2 = `kapitoly/chapter_05.aux'.
 
- (./kapitoly/chapter_05.tex) [20
+ (./kapitoly/chapter_05.tex) [21
 
 
 
 ]
 \openout2 = `kapitoly/chapter_06.aux'.
 
- (./kapitoly/chapter_06.tex) [21
+ (./kapitoly/chapter_06.tex) [22
 
 
 
 ]
 \openout2 = `kapitoly/chapter_07.aux'.
 
- (./kapitoly/chapter_07.tex) [22
+ (./kapitoly/chapter_07.tex) [23
 
 
 
 ]
 \openout2 = `kapitoly/chapter_08.aux'.
 
- (./kapitoly/chapter_08.tex) [23
+ (./kapitoly/chapter_08.tex) [24
 
 
 
 ]
 \openout2 = `kapitoly/chapter_09.aux'.
 
- (./kapitoly/chapter_09.tex) [24
+ (./kapitoly/chapter_09.tex
+Overfull \hbox (9.02863pt too wide) in paragraph at lines 29--30
+[]\OT1/cmr/bx/n/10.95 Certifikovan^^Se a os-tatn^^S^^P ref-eren^^Tcn^^S^^P ma-teri^^Saly \OT1/cmr/m/n/10.95 = Jedn^^Sa se o ma-teri^^Saly p^^Tresn^^Te stanoven^^Seho
+ []
+
+[25
 
 
 
-]
+] [26]
+<img/expozice.png, id=115, 363.60844pt x 149.8097pt>
+File: img/expozice.png Graphic file (type png)
+<use img/expozice.png>
+Package pdftex.def Info: img/expozice.png  used on input line 112.
+(pdftex.def)             Requested size: 227.62204pt x 93.78397pt.
+ [27 <./img/expozice.png>]) [28]
 \openout2 = `kapitoly/chapter_10.aux'.
 
- (./kapitoly/chapter_10.tex) [25
+ (./kapitoly/chapter_10.tex
+Overfull \hbox (0.51996pt too wide) in paragraph at lines 6--7
+[]\OT1/cmr/m/n/10.95 Absolutn^^S^^P = Vyu^^Tz^^S^^Pv^^Sa p^^Tr^^S^^Pm^^Se de-tekce veli^^Tciny (Koin-ci-den^^Tcn^^S^^P metoda, elek-tro-stat-ick^^Sa metoda,
+ []
+
+[29
 
 
 
-]
+] [30]
+<img/tdcr.png, id=130, 582.67688pt x 262.9825pt>
+File: img/tdcr.png Graphic file (type png)
+<use img/tdcr.png>
+Package pdftex.def Info: img/tdcr.png  used on input line 84.
+(pdftex.def)             Requested size: 455.24408pt x 205.47061pt.
+) [31 <./img/tdcr.png>]
 \openout2 = `kapitoly/chapter_11.aux'.
 
  (./kapitoly/chapter_11.tex
@@ -936,11 +958,53 @@ Overfull \hbox (13.28534pt too wide) in paragraph at lines 1--1
 []\OT1/cmr/bx/n/14.4 Koinciden^^Tcn^^S^^P metoda stanoven^^S^^P ak-tiv-ity a spek-trome-trie z^^Sa^^Tren^^S^^P
  []
 
-) [26
+<img/koin-obvod.png, id=135, 519.44063pt x 171.13937pt>
+File: img/koin-obvod.png Graphic file (type png)
+<use img/koin-obvod.png>
+Package pdftex.def Info: img/koin-obvod.png  used on input line 9.
+(pdftex.def)             Requested size: 318.66946pt x 104.99023pt.
+<img/jednoduché koincidenční zapojení.png, id=136, 904.1278pt x 289.08pt>
+File: img/jednoduché koincidenční zapojení.png Graphic file (type png)
+<use img/jednoduché koincidenční zapojení.png>
+Package pdftex.def Info: img/jednoduché koincidenční zapojení.png  used on input line 14.
+(pdftex.def)             Requested size: 455.24408pt x 145.55417pt.
+<img/Výsledné zapojení koincidenčního obvodu.png, id=137, 703.87968pt x 323.70938pt>
+File: img/Výsledné zapojení koincidenčního obvodu.png Graphic file (type png)
+<use img/Výsledné zapojení koincidenčního obvodu.png>
+Package pdftex.def Info: img/Výsledné zapojení koincidenčního obvodu.png  used on input line 29.
+(pdftex.def)             Requested size: 455.24408pt x 209.36145pt.
+[32
 
 
 
-]
+ <./img/koin-obvod.png> <./img/jednoduché koincidenční zapojení.png>] [33 <./img/Výsledné zapojení koincidenčního obvodu.png>]
+Overfull \hbox (45.06908pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10.95 prob^^S^^Ph^^Sa ^^Supravou vz-tahu pro v^^Sypo^^Tcet elek-tron^^Wu v $\OML/cmm/m/it/10.95 ^^L$ \OT1/cmr/m/n/10.95 kan^^Salu, tedy pom^^Ter nam^^Te^^Tren^^Sych ^^Tcetnost^^S^^P/aktivita. 
+ []
+
+[34]
+<img/spek-trasa.png, id=150, 587.69562pt x 125.46875pt>
+File: img/spek-trasa.png Graphic file (type png)
+<use img/spek-trasa.png>
+Package pdftex.def Info: img/spek-trasa.png  used on input line 93.
+(pdftex.def)             Requested size: 364.19664pt x 77.75343pt.
+<img/male detektory spektrum.png, id=151, 633.11531pt x 279.29344pt>
+File: img/male detektory spektrum.png Graphic file (type png)
+<use img/male detektory spektrum.png>
+Package pdftex.def Info: img/male detektory spektrum.png  used on input line 115.
+(pdftex.def)             Requested size: 341.43306pt x 150.62444pt.
+ [35 <./img/spek-trasa.png>]
+<img/Středně velké detekotry spektrum.png, id=155, 603.75563pt x 252.945pt>
+File: img/Středně velké detekotry spektrum.png Graphic file (type png)
+<use img/Středně velké detekotry spektrum.png>
+Package pdftex.def Info: img/Středně velké detekotry spektrum.png  used on input line 123.
+(pdftex.def)             Requested size: 341.43306pt x 143.04155pt.
+<img/Velké detektory spektrum.png, id=156, 681.29532pt x 271.0125pt>
+File: img/Velké detektory spektrum.png Graphic file (type png)
+<use img/Velké detektory spektrum.png>
+Package pdftex.def Info: img/Velké detektory spektrum.png  used on input line 131.
+(pdftex.def)             Requested size: 341.43306pt x 135.82019pt.
+ [36 <./img/male detektory spektrum.png> <./img/Středně velké detekotry spektrum.png> <./img/Velké detektory spektrum.png>]) [37]
 \openout2 = `kapitoly/chapter_12.aux'.
 
  (./kapitoly/chapter_12.tex
@@ -948,45 +1012,81 @@ Overfull \hbox (0.45541pt too wide) in paragraph at lines 1--1
 []\OT1/cmr/bx/n/14.4 Metrologie neu-tron^^Wu a metoda manganov^^Se l^^Sazn^^Te v^^Tcetn^^Te zpra-
  []
 
-) [27
+
+Overfull \hbox (13.34427pt too wide) in paragraph at lines 19--20
+[]\OT1/cmr/m/n/10.95 spont^^San^^S^^P ^^Tst^^Tepen^^S^^P = v praxi se vyu^^Tz^^S^^Pv^^Sa hlavn^^Te a snad jen $[]$Cf, je^^Tz m^^Sa cca 3 % pravd^^Tepodobnost
+ []
+
+[38
 
 
 
 ]
+Overfull \hbox (3.00792pt too wide) detected at line 47
+[]\OML/cmm/m/it/10.95 S \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 A[] \OMS/cmsy/m/n/10.95 ^^A [] \OT1/cmr/m/n/10.95 = [] \OMS/cmsy/m/n/10.95 ! \OML/cmm/m/it/10.95 S \OT1/cmr/m/n/10.95 = []
+ []
+
+
+Overfull \hbox (5.2649pt too wide) in paragraph at lines 60--61
+[]\OT1/cmr/m/n/10.95 Ne p^^Tr^^S^^Pli^^Ts dlouh^^Sy ale ani kr^^Satk^^Sy polo^^Tcas roz-padu a jednoduch^^Se p^^Trem^^Tenov^^Se sch^^Sema vznikaj^^S^^Pc^^S^^Pho
+ []
+
+[39]
+
+pdfTeX warning: pdflatex (file ./img/neutrony_energie.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<img/neutrony_energie.pdf, id=174, 597.50786pt x 845.04686pt>
+File: img/neutrony_energie.pdf Graphic file (type pdf)
+<use img/neutrony_energie.pdf>
+Package pdftex.def Info: img/neutrony_energie.pdf  used on input line 105.
+(pdftex.def)             Requested size: 364.19664pt x 109.25941pt.
+[40 <./img/neutrony_energie.pdf>]
+
+pdfTeX warning: pdflatex (file ./img/reakce_tepelne_neutrony.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<img/reakce_tepelne_neutrony.pdf, id=186, 597.50786pt x 845.04686pt>
+File: img/reakce_tepelne_neutrony.pdf Graphic file (type pdf)
+<use img/reakce_tepelne_neutrony.pdf>
+Package pdftex.def Info: img/reakce_tepelne_neutrony.pdf  used on input line 140.
+(pdftex.def)             Requested size: 182.09485pt x 94.35939pt.
+[41 <./img/reakce_tepelne_neutrony.pdf>]
+Overfull \hbox (56.28755pt too wide) in paragraph at lines 193--194
+[]\OT1/cmr/bx/n/10.95 DOPSAT ZPRA-COV[]AN[]I V[]YSLEDK[]U A ZDROJE NE-JIS-TOT (ASI V JIN[]E PREZENTACI) 
+ []
+
+) [42]
 \openout2 = `kapitoly/chapter_13.aux'.
 
- (./kapitoly/chapter_13.tex) [28
+ (./kapitoly/chapter_13.tex) [43
 
 
 
 ]
 \openout2 = `kapitoly/chapter_14.aux'.
 
- (./kapitoly/chapter_14.tex) [29
+ (./kapitoly/chapter_14.tex) [44
 
 
 
 ]
 \openout2 = `kapitoly/chapter_15.aux'.
 
- (./kapitoly/chapter_15.tex) [30
+ (./kapitoly/chapter_15.tex) [45
 
 
 
 ] (./main.aux (./none.aux) (./kapitoly/chapter_01.aux) (./kapitoly/chapter_02.aux) (./kapitoly/chapter_03.aux) (./kapitoly/chapter_04.aux) (./kapitoly/chapter_05.aux) (./kapitoly/chapter_06.aux) (./kapitoly/chapter_07.aux) (./kapitoly/chapter_08.aux) (./kapitoly/chapter_09.aux) (./kapitoly/chapter_10.aux) (./kapitoly/chapter_11.aux) (./kapitoly/chapter_12.aux) (./kapitoly/chapter_13.aux) (./kapitoly/chapter_14.aux) (./kapitoly/chapter_15.aux)) ) 
 Here is how much of TeX's memory you used:
- 30228 strings out of 476091
- 793804 string characters out of 5794082
- 1868330 words of memory out of 5000000
- 50033 multiletter control sequences out of 15000+600000
+ 30310 strings out of 476091
+ 796453 string characters out of 5794082
+ 1869330 words of memory out of 5000000
+ 50104 multiletter control sequences out of 15000+600000
  522953 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,7n,103p,956b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on main.pdf (30 pages, 1124442 bytes).
+ 99i,8n,103p,956b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on main.pdf (45 pages, 1807507 bytes).
 PDF statistics:
- 176 PDF objects out of 1000 (max. 8388607)
- 107 compressed objects within 2 object streams
+ 274 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 115 words of extra memory for PDF output out of 10000 (max. 10000000)
 
