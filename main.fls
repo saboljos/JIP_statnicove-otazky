@@ -988,6 +988,81 @@ INPUT ./kapitoly/chapter_05.tex
 INPUT kapitoly/chapter_05.tex
 INPUT ./kapitoly/chapter_05.tex
 INPUT kapitoly/chapter_05.tex
+INPUT ./img/iont-svazky.png
+INPUT ./img/iont-svazky.png
+INPUT img/iont-svazky.png
+INPUT ./img/iont-svazky.png
+INPUT ./img/iont-svazky.png
+INPUT ./img/iont-svazky-exp.png
+INPUT ./img/iont-svazky-exp.png
+INPUT img/iont-svazky-exp.png
+INPUT ./img/iont-svazky-exp.png
+INPUT ./img/iont-svazky-exp.png
+INPUT ./img/ultra tenká vrstva - RBS.png
+INPUT ./img/ultra tenká vrstva - RBS.png
+INPUT img/ultra tenká vrstva - RBS.png
+INPUT ./img/ultra tenká vrstva - RBS.png
+INPUT ./img/ultra tenká vrstva - RBS.png
+INPUT ./img/Tenká vrstva - RBS.png
+INPUT ./img/Tenká vrstva - RBS.png
+INPUT img/Tenká vrstva - RBS.png
+INPUT ./img/Tenká vrstva - RBS.png
+INPUT ./img/Tenká vrstva - RBS.png
+INPUT ./img/Bulk - RBS.png
+INPUT ./img/Bulk - RBS.png
+INPUT img/Bulk - RBS.png
+INPUT ./img/Bulk - RBS.png
+INPUT ./img/Bulk - RBS.png
+INPUT ./img/pokrytí - RBS.png
+INPUT ./img/pokrytí - RBS.png
+INPUT img/pokrytí - RBS.png
+INPUT ./img/pokrytí - RBS.png
+INPUT ./img/pokrytí - RBS.png
+INPUT ./img/rbs-analyza.png
+INPUT ./img/rbs-analyza.png
+INPUT img/rbs-analyza.png
+INPUT ./img/rbs-analyza.png
+INPUT ./img/rbs-analyza.png
+INPUT ./img/rbs-kanalovani.png
+INPUT ./img/rbs-kanalovani.png
+INPUT img/rbs-kanalovani.png
+INPUT ./img/rbs-kanalovani.png
+INPUT ./img/rbs-kanalovani.png
+INPUT ./img/pixe.png
+INPUT ./img/pixe.png
+INPUT img/pixe.png
+INPUT ./img/pixe.png
+INPUT ./img/pixe.png
+INPUT ./img/erda.png
+INPUT ./img/erda.png
+INPUT img/erda.png
+INPUT ./img/erda.png
+INPUT ./img/erda.png
+INPUT ./img/erda-spektrum.png
+INPUT ./img/erda-spektrum.png
+INPUT img/erda-spektrum.png
+INPUT ./img/erda-spektrum.png
+INPUT ./img/erda-spektrum.png
+INPUT ./img/transmisní ERDA.png
+INPUT ./img/transmisní ERDA.png
+INPUT img/transmisní ERDA.png
+INPUT ./img/transmisní ERDA.png
+INPUT ./img/transmisní ERDA.png
+INPUT ./img/odrazová ERDA.png
+INPUT ./img/odrazová ERDA.png
+INPUT img/odrazová ERDA.png
+INPUT ./img/odrazová ERDA.png
+INPUT ./img/odrazová ERDA.png
+INPUT ./img/nra.png
+INPUT ./img/nra.png
+INPUT img/nra.png
+INPUT ./img/nra.png
+INPUT ./img/nra.png
+INPUT ./img/nra2.png
+INPUT ./img/nra2.png
+INPUT img/nra2.png
+INPUT ./img/nra2.png
+INPUT ./img/nra2.png
 INPUT ./kapitoly/chapter_06.tex
 INPUT ./kapitoly/chapter_06.tex
 INPUT ./kapitoly/chapter_06.tex
@@ -998,6 +1073,46 @@ INPUT ./kapitoly/chapter_06.tex
 INPUT kapitoly/chapter_06.tex
 INPUT ./kapitoly/chapter_06.tex
 INPUT kapitoly/chapter_06.tex
+INPUT ./img/Mossbauer excitace jádra.png
+INPUT ./img/Mossbauer excitace jádra.png
+INPUT img/Mossbauer excitace jádra.png
+INPUT ./img/Mossbauer excitace jádra.png
+INPUT ./img/Mossbauer excitace jádra.png
+INPUT ./img/mossbauer_instrumentation.pdf
+INPUT ./img/mossbauer_instrumentation.pdf
+INPUT img/mossbauer_instrumentation.pdf
+INPUT ./img/mossbauer_instrumentation.pdf
+INPUT ./img/mossbauer_instrumentation.pdf
+INPUT ./img/mossbauer_interactions.pdf
+INPUT ./img/mossbauer_interactions.pdf
+INPUT img/mossbauer_interactions.pdf
+INPUT ./img/mossbauer_interactions.pdf
+INPUT ./img/mossbauer_interactions.pdf
+INPUT ./img/mossbauer_quadrupole.pdf
+INPUT ./img/mossbauer_quadrupole.pdf
+INPUT img/mossbauer_quadrupole.pdf
+INPUT ./img/mossbauer_quadrupole.pdf
+INPUT ./img/mossbauer_quadrupole.pdf
+INPUT ./img/mossbauer_magnetic_quadrupole.pdf
+INPUT ./img/mossbauer_magnetic_quadrupole.pdf
+INPUT img/mossbauer_magnetic_quadrupole.pdf
+INPUT ./img/mossbauer_magnetic_quadrupole.pdf
+INPUT ./img/mossbauer_magnetic_quadrupole.pdf
+INPUT ./img/mossbauer_shrnuti.pdf
+INPUT ./img/mossbauer_shrnuti.pdf
+INPUT img/mossbauer_shrnuti.pdf
+INPUT ./img/mossbauer_shrnuti.pdf
+INPUT ./img/mossbauer_shrnuti.pdf
+INPUT ./img/pas_doba_zivota.pdf
+INPUT ./img/pas_doba_zivota.pdf
+INPUT img/pas_doba_zivota.pdf
+INPUT ./img/pas_doba_zivota.pdf
+INPUT ./img/pas_doba_zivota.pdf
+INPUT ./img/dopplerovo_koincidencni_zapojeni.pdf
+INPUT ./img/dopplerovo_koincidencni_zapojeni.pdf
+INPUT img/dopplerovo_koincidencni_zapojeni.pdf
+INPUT ./img/dopplerovo_koincidencni_zapojeni.pdf
+INPUT ./img/dopplerovo_koincidencni_zapojeni.pdf
 INPUT ./kapitoly/chapter_07.tex
 INPUT ./kapitoly/chapter_07.tex
 INPUT ./kapitoly/chapter_07.tex
@@ -1008,6 +1123,42 @@ INPUT ./kapitoly/chapter_07.tex
 INPUT kapitoly/chapter_07.tex
 INPUT ./kapitoly/chapter_07.tex
 INPUT kapitoly/chapter_07.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT ./img/gamma_kamera.pdf
+INPUT ./img/gamma_kamera.pdf
+INPUT img/gamma_kamera.pdf
+INPUT ./img/gamma_kamera.pdf
+INPUT ./img/gamma_kamera.pdf
+INPUT ./img/gamma_kamera_snimek.pdf
+INPUT ./img/gamma_kamera_snimek.pdf
+INPUT img/gamma_kamera_snimek.pdf
+INPUT ./img/gamma_kamera_snimek.pdf
+INPUT ./img/gamma_kamera_snimek.pdf
+INPUT ./img/ct_scheme.pdf
+INPUT ./img/ct_scheme.pdf
+INPUT img/ct_scheme.pdf
+INPUT ./img/ct_scheme.pdf
+INPUT ./img/ct_scheme.pdf
+INPUT ./img/ct_projection.pdf
+INPUT ./img/ct_projection.pdf
+INPUT img/ct_projection.pdf
+INPUT ./img/ct_projection.pdf
+INPUT ./img/ct_projection.pdf
+INPUT ./img/ct_sinogram.pdf
+INPUT ./img/ct_sinogram.pdf
+INPUT img/ct_sinogram.pdf
+INPUT ./img/ct_sinogram.pdf
+INPUT ./img/ct_sinogram.pdf
+INPUT ./img/ct_ilustrace.pdf
+INPUT ./img/ct_ilustrace.pdf
+INPUT img/ct_ilustrace.pdf
+INPUT ./img/ct_ilustrace.pdf
+INPUT ./img/ct_ilustrace.pdf
+INPUT ./img/pet_obrazy.pdf
+INPUT ./img/pet_obrazy.pdf
+INPUT img/pet_obrazy.pdf
+INPUT ./img/pet_obrazy.pdf
+INPUT ./img/pet_obrazy.pdf
 INPUT ./kapitoly/chapter_08.tex
 INPUT ./kapitoly/chapter_08.tex
 INPUT ./kapitoly/chapter_08.tex
@@ -1018,6 +1169,36 @@ INPUT ./kapitoly/chapter_08.tex
 INPUT kapitoly/chapter_08.tex
 INPUT ./kapitoly/chapter_08.tex
 INPUT kapitoly/chapter_08.tex
+INPUT ./img/synchrotron.png
+INPUT ./img/synchrotron.png
+INPUT img/synchrotron.png
+INPUT ./img/synchrotron.png
+INPUT ./img/synchrotron.png
+INPUT ./img/synchrotron2.png
+INPUT ./img/synchrotron2.png
+INPUT img/synchrotron2.png
+INPUT ./img/synchrotron2.png
+INPUT ./img/synchrotron2.png
+INPUT ./img/ohybací magnet.png
+INPUT ./img/ohybací magnet.png
+INPUT img/ohybací magnet.png
+INPUT ./img/ohybací magnet.png
+INPUT ./img/ohybací magnet.png
+INPUT ./img/Wiggler.png
+INPUT ./img/Wiggler.png
+INPUT img/Wiggler.png
+INPUT ./img/Wiggler.png
+INPUT ./img/Wiggler.png
+INPUT ./img/Ondulátor.png
+INPUT ./img/Ondulátor.png
+INPUT img/Ondulátor.png
+INPUT ./img/Ondulátor.png
+INPUT ./img/Ondulátor.png
+INPUT ./img/časová struktura pulsů fotonů.png
+INPUT ./img/časová struktura pulsů fotonů.png
+INPUT img/časová struktura pulsů fotonů.png
+INPUT ./img/časová struktura pulsů fotonů.png
+INPUT ./img/časová struktura pulsů fotonů.png
 INPUT ./kapitoly/chapter_09.tex
 INPUT ./kapitoly/chapter_09.tex
 INPUT ./kapitoly/chapter_09.tex
@@ -1123,6 +1304,16 @@ INPUT ./kapitoly/chapter_13.tex
 INPUT kapitoly/chapter_13.tex
 INPUT ./kapitoly/chapter_13.tex
 INPUT kapitoly/chapter_13.tex
+INPUT ./img/Úrovně ochrany do hloubky.png
+INPUT ./img/Úrovně ochrany do hloubky.png
+INPUT img/Úrovně ochrany do hloubky.png
+INPUT ./img/Úrovně ochrany do hloubky.png
+INPUT ./img/Úrovně ochrany do hloubky.png
+INPUT ./img/DiD-bariery.png
+INPUT ./img/DiD-bariery.png
+INPUT img/DiD-bariery.png
+INPUT ./img/DiD-bariery.png
+INPUT ./img/DiD-bariery.png
 INPUT ./kapitoly/chapter_14.tex
 INPUT ./kapitoly/chapter_14.tex
 INPUT ./kapitoly/chapter_14.tex
@@ -1133,6 +1324,31 @@ INPUT ./kapitoly/chapter_14.tex
 INPUT kapitoly/chapter_14.tex
 INPUT ./kapitoly/chapter_14.tex
 INPUT kapitoly/chapter_14.tex
+INPUT ./img/jad-udalosti.png
+INPUT ./img/jad-udalosti.png
+INPUT img/jad-udalosti.png
+INPUT ./img/jad-udalosti.png
+INPUT ./img/jad-udalosti.png
+INPUT ./img/jad-udalosti1.png
+INPUT ./img/jad-udalosti1.png
+INPUT img/jad-udalosti1.png
+INPUT ./img/jad-udalosti1.png
+INPUT ./img/jad-udalosti1.png
+INPUT ./img/Stavy_JZ_cetnost.pdf
+INPUT ./img/Stavy_JZ_cetnost.pdf
+INPUT img/Stavy_JZ_cetnost.pdf
+INPUT ./img/Stavy_JZ_cetnost.pdf
+INPUT ./img/Stavy_JZ_cetnost.pdf
+INPUT ./img/ines.png
+INPUT ./img/ines.png
+INPUT img/ines.png
+INPUT ./img/ines.png
+INPUT ./img/ines.png
+INPUT ./img/INES_tab.pdf
+INPUT ./img/INES_tab.pdf
+INPUT img/INES_tab.pdf
+INPUT ./img/INES_tab.pdf
+INPUT ./img/INES_tab.pdf
 INPUT ./kapitoly/chapter_15.tex
 INPUT ./kapitoly/chapter_15.tex
 INPUT ./kapitoly/chapter_15.tex
@@ -1143,6 +1359,11 @@ INPUT ./kapitoly/chapter_15.tex
 INPUT kapitoly/chapter_15.tex
 INPUT ./kapitoly/chapter_15.tex
 INPUT kapitoly/chapter_15.tex
+INPUT ./img/zapojeni_klicovych_hracu.pdf
+INPUT ./img/zapojeni_klicovych_hracu.pdf
+INPUT img/zapojeni_klicovych_hracu.pdf
+INPUT ./img/zapojeni_klicovych_hracu.pdf
+INPUT ./img/zapojeni_klicovych_hracu.pdf
 INPUT main.aux
 INPUT ./none.aux
 INPUT none.aux
@@ -1206,4 +1427,5 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb

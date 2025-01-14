@@ -1,50 +1,112 @@
-\contentsline {section}{\numberline {1}Rentgenofluorescenční analýza}{5}{}%
-\contentsline {subsection}{\numberline {1.1}Princip metody}{5}{}%
-\contentsline {subsection}{\numberline {1.2}Vlnově disperzní RFA}{6}{}%
-\contentsline {subsection}{\numberline {1.3}Energiově disperzní RFA}{7}{}%
-\contentsline {subsection}{\numberline {1.4}Požadavky na vzorek pro RFA analýzu}{7}{}%
-\contentsline {subsection}{\numberline {1.5}Detektory pro RFA}{8}{}%
-\contentsline {section}{\numberline {2}Aplikace rentgnofluorescenční analýzy}{9}{}%
-\contentsline {subsection}{\numberline {2.1}Kvalitativní analýza}{9}{}%
-\contentsline {subsection}{\numberline {2.2}Kvantitativní analýza}{9}{}%
-\contentsline {subsection}{\numberline {2.3}Matricové jevy}{10}{}%
-\contentsline {subsection}{\numberline {2.4}Metody kompenzace Matricových jevů}{10}{}%
-\contentsline {section}{\numberline {3}Elektronová mikrosonda}{12}{}%
-\contentsline {subsection}{\numberline {3.1}Princip}{12}{}%
-\contentsline {subsection}{\numberline {3.2}Typy elektronového mikroskopu:}{13}{}%
-\contentsline {subsection}{\numberline {3.3}Využití}{14}{}%
-\contentsline {subsection}{\numberline {3.4}Výhody a nevýhody elektronového mikroskopu}{14}{}%
-\contentsline {section}{\numberline {4}Aplikace ionizujícího záření v geologii a geofyzice}{16}{}%
-\contentsline {subsection}{\numberline {4.1}Radiometrické datování hornin}{16}{}%
-\contentsline {subsection}{\numberline {4.2}Jaderná karotáž (well logging)}{16}{}%
-\contentsline {subsection}{\numberline {4.3}Metody využívající zpětný odraz gama}{18}{}%
-\contentsline {section}{\numberline {5}Využití iontových svazků v materiálovém výzkumu}{21}{}%
-\contentsline {section}{\numberline {6}Využití jaderně-fyzikálních metod v materiálovém výzkumu}{22}{}%
-\contentsline {section}{\numberline {7}Jaderně-fyzikální metody v nukleární medicíně}{23}{}%
-\contentsline {section}{\numberline {8}Využití synchrotronového záření v materiálovém výzkumu}{24}{}%
-\contentsline {section}{\numberline {9}Jednotky a veličiny v dozimetrii}{25}{}%
-\contentsline {subsection}{\numberline {9.1}Základy legální metrologie}{25}{}%
-\contentsline {subsubsection}{\numberline {9.1.1}Organizace}{26}{}%
-\contentsline {subsubsection}{\numberline {9.1.2}Veličiny a jednotky}{26}{}%
-\contentsline {subsection}{\numberline {9.2}Jednotky a veličiny v dozimetrii}{27}{}%
-\contentsline {section}{\numberline {10}Využití detektorů v metrologii aktivity}{29}{}%
-\contentsline {subsection}{\numberline {10.1}Využití proporcionálních detektorů}{29}{}%
-\contentsline {subsection}{\numberline {10.2}Využití kapalných scintilátorů}{30}{}%
-\contentsline {subsubsection}{\numberline {10.2.1}TDCR}{30}{}%
-\contentsline {section}{\numberline {11}Koincidenční metoda \& spektrometrie gama}{32}{}%
-\contentsline {subsection}{\numberline {11.1}Koincidenční metoda}{32}{}%
-\contentsline {subsubsection}{\numberline {11.1.1}Instrumentální opravy}{34}{}%
-\contentsline {subsubsection}{\numberline {11.1.2}Korekce -- Opravy jednoduchého jaderného schématu}{34}{}%
-\contentsline {subsubsection}{\numberline {11.1.3}Metody}{34}{}%
-\contentsline {subsection}{\numberline {11.2}Spektrometrie gama jako sekundární metoda měření aktivity}{35}{}%
-\contentsline {section}{\numberline {12}Metrologie neutronů \& manganová lázeň}{38}{}%
-\contentsline {subsection}{\numberline {12.1}Zdroje neutronů}{38}{}%
-\contentsline {subsection}{\numberline {12.2}Metoda manganové lážně}{38}{}%
-\contentsline {subsection}{\numberline {12.3}Metoda registrace doprovodných částic}{39}{}%
-\contentsline {subsection}{\numberline {12.4}Metody měření hustoty toku neutronů}{40}{}%
-\contentsline {subsubsection}{\numberline {12.4.1}Detektory tepelných neutronů}{41}{}%
-\contentsline {subsubsection}{\numberline {12.4.2}Detektory rychlých neutronů}{41}{}%
-\contentsline {subsection}{\numberline {12.5}Spektrometrie neutronů}{42}{}%
-\contentsline {section}{\numberline {13}Jaderná bezpečnost \& ochrana do hloubky}{43}{}%
-\contentsline {section}{\numberline {14}Klasifikace událostí na jaderných zařízeních}{44}{}%
-\contentsline {section}{\numberline {15}Legislativa jaderné bezpečnosti}{45}{}%
+\contentsline {section}{\numberline {1}Rentgenofluorescenční analýza}{6}{}%
+\contentsline {subsection}{\numberline {1.1}Princip metody}{6}{}%
+\contentsline {subsection}{\numberline {1.2}Vlnově disperzní RFA}{7}{}%
+\contentsline {subsection}{\numberline {1.3}Energiově disperzní RFA}{8}{}%
+\contentsline {subsection}{\numberline {1.4}Požadavky na vzorek pro RFA analýzu}{8}{}%
+\contentsline {subsection}{\numberline {1.5}Detektory pro RFA}{9}{}%
+\contentsline {section}{\numberline {2}Aplikace rentgnofluorescenční analýzy}{10}{}%
+\contentsline {subsection}{\numberline {2.1}Kvalitativní analýza}{10}{}%
+\contentsline {subsection}{\numberline {2.2}Kvantitativní analýza}{10}{}%
+\contentsline {subsection}{\numberline {2.3}Matricové jevy}{11}{}%
+\contentsline {subsection}{\numberline {2.4}Metody kompenzace Matricových jevů}{11}{}%
+\contentsline {section}{\numberline {3}Elektronová mikrosonda}{13}{}%
+\contentsline {subsection}{\numberline {3.1}Princip}{13}{}%
+\contentsline {subsection}{\numberline {3.2}Typy elektronového mikroskopu:}{14}{}%
+\contentsline {subsection}{\numberline {3.3}Využití}{15}{}%
+\contentsline {subsection}{\numberline {3.4}Výhody a nevýhody elektronového mikroskopu}{15}{}%
+\contentsline {section}{\numberline {4}Aplikace ionizujícího záření v geologii a geofyzice}{17}{}%
+\contentsline {subsection}{\numberline {4.1}Radiometrické datování hornin}{17}{}%
+\contentsline {subsection}{\numberline {4.2}Jaderná karotáž (well logging)}{17}{}%
+\contentsline {subsection}{\numberline {4.3}Metody využívající zpětný odraz gama}{19}{}%
+\contentsline {section}{\numberline {5}Využití iontových svazků v materiálovém výzkumu}{23}{}%
+\contentsline {subsection}{\numberline {5.1}Základní typy urychlovačů}{23}{}%
+\contentsline {subsection}{\numberline {5.2}Metoda RBS}{24}{}%
+\contentsline {subsection}{\numberline {5.3}Kanálování}{28}{}%
+\contentsline {subsection}{\numberline {5.4}PIXE}{28}{}%
+\contentsline {subsection}{\numberline {5.5}PIGE}{29}{}%
+\contentsline {subsection}{\numberline {5.6}ERDA}{30}{}%
+\contentsline {subsection}{\numberline {5.7}NRA}{31}{}%
+\contentsline {section}{\numberline {6}Využití jaderně-fyzikálních metod v materiálovém výzkumu}{33}{}%
+\contentsline {subsection}{\numberline {6.1}Mossbauerova spektrometrie}{33}{}%
+\contentsline {subsubsection}{\numberline {6.1.1}Princip}{33}{}%
+\contentsline {subsubsection}{\numberline {6.1.2}Zpětný ráz}{33}{}%
+\contentsline {subsubsection}{\numberline {6.1.3}Pravděpodobnost jevu}{34}{}%
+\contentsline {subsubsection}{\numberline {6.1.4}Uspořádání experimentu}{35}{}%
+\contentsline {subsubsection}{\numberline {6.1.5}Využití}{36}{}%
+\contentsline {subsubsection}{\numberline {6.1.6}Hyperjemné interakce}{37}{}%
+\contentsline {subsubsection}{\numberline {6.1.7}Kalibrace}{38}{}%
+\contentsline {subsubsection}{\numberline {6.1.8}APlikace Mossbauerovy spektrometrie}{39}{}%
+\contentsline {subsection}{\numberline {6.2}Elektron-pozitronová anihilační spektroskopie}{39}{}%
+\contentsline {subsubsection}{\numberline {6.2.1}Experimentální techniky}{40}{}%
+\contentsline {subsection}{\numberline {6.3}Neutronová aktivační analýza}{40}{}%
+\contentsline {subsubsection}{\numberline {6.3.1}Nastavení experimentálních parametrů}{42}{}%
+\contentsline {section}{\numberline {7}Jaderně-fyzikální metody v nukleární medicíně}{44}{}%
+\contentsline {subsection}{\numberline {7.1}Zdroje záření}{44}{}%
+\contentsline {subsection}{\numberline {7.2}Diagnostika}{44}{}%
+\contentsline {subsection}{\numberline {7.3}Gamma kamera}{45}{}%
+\contentsline {subsection}{\numberline {7.4}Počítačová tomografie -- CT}{46}{}%
+\contentsline {subsubsection}{\numberline {7.4.1}Princip}{46}{}%
+\contentsline {subsubsection}{\numberline {7.4.2}Základní součástky CT tomorgafu}{47}{}%
+\contentsline {subsection}{\numberline {7.5}PET}{47}{}%
+\contentsline {subsubsection}{\numberline {7.5.1}Základní součástky PET tomografu}{47}{}%
+\contentsline {subsection}{\numberline {7.6}Rozlišení obrazu}{48}{}%
+\contentsline {section}{\numberline {8}Využití synchrotronového záření v materiálovém výzkumu}{49}{}%
+\contentsline {subsection}{\numberline {8.1}Schéma uspořádání synchrotronu}{49}{}%
+\contentsline {subsection}{\numberline {8.2}Tvorba synchrotronového záření}{49}{}%
+\contentsline {subsection}{\numberline {8.3}Vlastnosti synchrotronového záření}{50}{}%
+\contentsline {subsection}{\numberline {8.4}XFEL}{51}{}%
+\contentsline {section}{\numberline {9}Jednotky a veličiny v dozimetrii}{53}{}%
+\contentsline {subsection}{\numberline {9.1}Základy legální metrologie}{53}{}%
+\contentsline {subsubsection}{\numberline {9.1.1}Organizace}{54}{}%
+\contentsline {subsubsection}{\numberline {9.1.2}Veličiny a jednotky}{54}{}%
+\contentsline {subsection}{\numberline {9.2}Jednotky a veličiny v dozimetrii}{55}{}%
+\contentsline {section}{\numberline {10}Využití detektorů v metrologii aktivity}{57}{}%
+\contentsline {subsection}{\numberline {10.1}Využití proporcionálních detektorů}{57}{}%
+\contentsline {subsection}{\numberline {10.2}Využití kapalných scintilátorů}{58}{}%
+\contentsline {subsubsection}{\numberline {10.2.1}TDCR}{58}{}%
+\contentsline {section}{\numberline {11}Koincidenční metoda \& spektrometrie gama}{60}{}%
+\contentsline {subsection}{\numberline {11.1}Koincidenční metoda}{60}{}%
+\contentsline {subsubsection}{\numberline {11.1.1}Instrumentální opravy}{62}{}%
+\contentsline {subsubsection}{\numberline {11.1.2}Korekce -- Opravy jednoduchého jaderného schématu}{62}{}%
+\contentsline {subsubsection}{\numberline {11.1.3}Metody}{62}{}%
+\contentsline {subsection}{\numberline {11.2}Spektrometrie gama jako sekundární metoda měření aktivity}{63}{}%
+\contentsline {section}{\numberline {12}Metrologie neutronů \& manganová lázeň}{66}{}%
+\contentsline {subsection}{\numberline {12.1}Zdroje neutronů}{66}{}%
+\contentsline {subsection}{\numberline {12.2}Metoda manganové lážně}{66}{}%
+\contentsline {subsection}{\numberline {12.3}Metoda registrace doprovodných částic}{67}{}%
+\contentsline {subsection}{\numberline {12.4}Metody měření hustoty toku neutronů}{68}{}%
+\contentsline {subsubsection}{\numberline {12.4.1}Detektory tepelných neutronů}{69}{}%
+\contentsline {subsubsection}{\numberline {12.4.2}Detektory rychlých neutronů}{69}{}%
+\contentsline {subsection}{\numberline {12.5}Spektrometrie neutronů}{70}{}%
+\contentsline {section}{\numberline {13}Jaderná bezpečnost \& ochrana do hloubky}{71}{}%
+\contentsline {subsection}{\numberline {13.1}Princip 3S}{71}{}%
+\contentsline {subsection}{\numberline {13.2}Principy bezpečného využívání jaderné energie}{73}{}%
+\contentsline {subsubsection}{\numberline {13.2.1}Bezpečnostní funkce}{73}{}%
+\contentsline {subsubsection}{\numberline {13.2.2}Přístup třístupňové ochrany}{74}{}%
+\contentsline {subsubsection}{\numberline {13.2.3}Definice poruch}{74}{}%
+\contentsline {subsubsection}{\numberline {13.2.4}Rozdělení systémů}{75}{}%
+\contentsline {subsection}{\numberline {13.3}Ochrana do hloubky = DID}{75}{}%
+\contentsline {subsubsection}{\numberline {13.3.1}Zajištění DID}{75}{}%
+\contentsline {subsubsection}{\numberline {13.3.2}Strategie DID}{76}{}%
+\contentsline {subsubsection}{\numberline {13.3.3}Úrovně DID}{76}{}%
+\contentsline {subsubsection}{\numberline {13.3.4}Fyzické bariéry DID}{77}{}%
+\contentsline {section}{\numberline {14}Klasifikace událostí na jaderných zařízeních}{79}{}%
+\contentsline {subsection}{\numberline {14.1}Klasifikace událostí na jaderných zařízeních}{79}{}%
+\contentsline {subsubsection}{\numberline {14.1.1}Provozní stavy reaktoru dle Vyhlášky č. 329/2017Sb.}{79}{}%
+\contentsline {subsubsection}{\numberline {14.1.2}Základní bezpečnostní funkce}{79}{}%
+\contentsline {subsubsection}{\numberline {14.1.3}Klasifikace událostí}{80}{}%
+\contentsline {subsection}{\numberline {14.2}Nehody}{83}{}%
+\contentsline {subsubsection}{\numberline {14.2.1}Projektové nehody (DBA)}{83}{}%
+\contentsline {subsubsection}{\numberline {14.2.2}Nadprojektové nehody (BDBA)}{84}{}%
+\contentsline {subsubsection}{\numberline {14.2.3}Těžké havárie (SA)}{85}{}%
+\contentsline {subsection}{\numberline {14.3}Mezinárodní stupnice -- INES}{85}{}%
+\contentsline {subsubsection}{\numberline {14.3.1}Příklady událostí}{87}{}%
+\contentsline {section}{\numberline {15}Legislativa jaderné bezpečnosti}{89}{}%
+\contentsline {subsection}{\numberline {15.1}Životní cyklus jaderných zařízení}{89}{}%
+\contentsline {subsection}{\numberline {15.2}Klíčoví hráči při provozu reaktorů}{90}{}%
+\contentsline {subsubsection}{\numberline {15.2.1}International Atomic Energy Agency (IAEA)}{92}{}%
+\contentsline {subsubsection}{\numberline {15.2.2}SÚJB}{93}{}%
+\contentsline {subsection}{\numberline {15.3}Legislativní rámec}{95}{}%
+\contentsline {subsubsection}{\numberline {15.3.1}Atomové právo}{95}{}%
+\contentsline {subsubsection}{\numberline {15.3.2}České atomové právo}{96}{}%
+\contentsline {subsubsection}{\numberline {15.3.3}Mezinárodní atomové právo}{97}{}%
